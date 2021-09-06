@@ -1,8 +1,9 @@
 # Online ecommerce purchases for GLDNF Electronics 3000.
 
+In this project I will do analysis of ecommerce purchases using pandas. I will also provide some plotting via matplolib. The goal is to work with the dataset in many ways to provide answers of stakeholders. Plotting graphs will give a visual on some things for it's easier to give a chart of some sort for the ones who aren't great with numbers. Enjoy!
+
 <img src="https://github.com/DesignisOrion/GLDNF-Online-Orders-3000/blob/main/img/GroupOfFloppy2.png"/>
 
-In this project I will do analysis of ecommerce purchases using pandas. I will also provide some plotting via matplolib. The goal is to work with the dataset in many ways to provide answers of stakeholders. Plotting graphs will give a visual on some things for it's easier to give a chart of some sort for the ones who aren't great with numbers. Enjoy!
 
 ## Installation
 
