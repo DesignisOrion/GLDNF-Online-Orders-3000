@@ -19,6 +19,8 @@ pip install jupyter-lab
 import pandas as pd
 import numpy as np
 import matplotlib.plt
+from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
+import pysimplegui as sg
 ```
 
 ## Contributing
